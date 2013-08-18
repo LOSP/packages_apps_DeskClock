@@ -101,22 +101,6 @@
     <string name="volume_button_setting_title" msgid="6937131248843413357">"音量按钮"</string>
     <string name="volume_button_dialog_title" msgid="8768042543750036853">"按钮的作用"</string>
   <string-array name="volume_button_setting_entries">
-  <!-- Setting title for the flip action setting. -->
-    <string name="flip_action_title">翻转时操作</string>
-
-    <!-- Dialog title of the flip action setting. -->
-    <string name="flip_action_dialog_title">翻转设备将会\u2026</string>
-
-    <!-- Setting summary for the flip action setting. -->
-    <string name="flip_action_summary">快速翻转设备将<xliff:g id="action">%s</xliff:g></string>
-	 <!-- Setting title for the shake action setting. -->
-    <string name="shake_action_title">摇晃时操作</string>
-
-    <!-- Dialog title for the shake action setting. -->
-    <string name="shake_action_dialog_title">摇晃设备将会\u2026</string>
-
-    <!-- Setting summary for the shake action setting. -->
-    <string name="shake_action_summary">摇晃设备将<xliff:g id="action">%s</xliff:g></string>
     <item msgid="7972756698723318690">"暂停"</item>
     <item msgid="3450979320164769576">"关闭"</item>
     <item msgid="6302517608411378024">"不进行任何操作"</item>
@@ -364,4 +348,20 @@
     <string name="profile_no_selected">未选择情景模式</string>
 	    <!-- Setting labels on Set alarm screen: Increasing volume on or off -->
     <string name="alarm_increasing_volume">提高音量</string>
+  <!-- Setting title for the flip action setting. -->
+    <string name="flip_action_title">翻转时操作</string>
+
+    <!-- Dialog title of the flip action setting. -->
+    <string name="flip_action_dialog_title">翻转设备将会\u2026</string>
+
+    <!-- Setting summary for the flip action setting. -->
+    <string name="flip_action_summary">快速翻转设备将<xliff:g id="action">%s</xliff:g></string>
+	 <!-- Setting title for the shake action setting. -->
+    <string name="shake_action_title">摇晃时操作</string>
+
+    <!-- Dialog title for the shake action setting. -->
+    <string name="shake_action_dialog_title">摇晃设备将会\u2026</string>
+
+    <!-- Setting summary for the shake action setting. -->
+    <string name="shake_action_summary">摇晃设备将<xliff:g id="action">%s</xliff:g></string>
 </resources>
