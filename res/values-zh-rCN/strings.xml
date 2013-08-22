@@ -104,13 +104,6 @@
     <item msgid="7972756698723318690">"暂停"</item>
     <item msgid="3450979320164769576">"关闭"</item>
     <item msgid="6302517608411378024">"不进行任何操作"</item>
-    <!-- Summary texts for shake and flip actions. Must be ordered by numerical
-         value (do nothing = 0,snooze = 1, dismiss = 2) -->
-<string-array name="action_summary_entries">
-      <item>不进行任何操作</item>
-      <item>暂停闹铃</item>
-      <item>关闭闹钟</item>
-    </string-array>
 
   </string-array>
     <string name="default_ringtone_setting_title" msgid="4549726190682964245">"设置默认铃声"</string>
@@ -371,4 +364,11 @@
 
     <!-- Setting summary for the shake action setting. -->
     <string name="shake_action_summary">摇晃设备将<xliff:g id="action">%s</xliff:g></string>
+    <!-- Summary texts for shake and flip actions. Must be ordered by numerical
+         value (do nothing = 0,snooze = 1, dismiss = 2) -->
+    <string-array name="action_summary_entries">
+      <item>不进行任何操作</item>
+      <item>暂停闹铃</item>
+      <item>关闭闹钟</item>
+    </string-array>
 </resources>
